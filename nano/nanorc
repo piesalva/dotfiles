@@ -1,3 +1,7 @@
+# Syntax highlighting
+include /usr/share/nano/python.nanorc
+include /usr/share/nano/sh.nanorc
+
 ## Sample initialization file for GNU nano.
 ##
 ## For the options that take parameters, the default value is shown.
