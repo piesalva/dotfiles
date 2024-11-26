@@ -2,7 +2,7 @@
 padding = {x=10, y=10}
 
 [font]
-normal = {family="monospace", style="Regular"}
+normal = {family="jetbrains mono", style="Regular"}
 size = 8
 
 [colors.primary]
