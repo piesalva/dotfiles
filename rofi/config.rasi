@@ -1,6 +1,6 @@
 configuration {
 	modes: "window,drun,run,combi";
-	font: "jetbrains mono 12";
+	font: "firacode 12";
 /*	location: 0;*/
 /*	yoffset: 0;*/
 /*	xoffset: 0;*/
